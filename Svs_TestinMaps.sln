@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Svs.TestMaps", "..\Svs.TestMaps\Svs.TestMaps.vbproj", "{372DAEFE-A6BC-4CA6-B140-5FC5D93B5DD8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SvsMapTester", "SvsMapTester\SvsMapTester.vbproj", "{A48D0839-1F2D-45E1-8C1B-016F23B98471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372DAEFE-A6BC-4CA6-B140-5FC5D93B5DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372DAEFE-A6BC-4CA6-B140-5FC5D93B5DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372DAEFE-A6BC-4CA6-B140-5FC5D93B5DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372DAEFE-A6BC-4CA6-B140-5FC5D93B5DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48D0839-1F2D-45E1-8C1B-016F23B98471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48D0839-1F2D-45E1-8C1B-016F23B98471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48D0839-1F2D-45E1-8C1B-016F23B98471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48D0839-1F2D-45E1-8C1B-016F23B98471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C108D4CA-5835-4E90-9D3B-49DBB2FE8FBB}
+	EndGlobalSection
+EndGlobal
