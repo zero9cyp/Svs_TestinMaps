@@ -32,12 +32,12 @@ Partial Class Form1
         Me.wbmap.Location = New System.Drawing.Point(12, 38)
         Me.wbmap.MinimumSize = New System.Drawing.Size(20, 20)
         Me.wbmap.Name = "wbmap"
-        Me.wbmap.Size = New System.Drawing.Size(738, 344)
+        Me.wbmap.Size = New System.Drawing.Size(1342, 614)
         Me.wbmap.TabIndex = 0
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(69, 405)
+        Me.Button1.Location = New System.Drawing.Point(1188, 675)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 1
@@ -46,7 +46,7 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(275, 405)
+        Me.Button2.Location = New System.Drawing.Point(1292, 675)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(75, 23)
         Me.Button2.TabIndex = 2
@@ -57,7 +57,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(1379, 710)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.wbmap)

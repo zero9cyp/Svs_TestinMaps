@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Svs.TestMaps", "..\Svs.Test
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SvsMapTester", "SvsMapTester\SvsMapTester.vbproj", "{A48D0839-1F2D-45E1-8C1B-016F23B98471}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SvsMapPointersDB", "SvsMapPointersDB\SvsMapPointersDB.vbproj", "{EE832866-358D-4B91-B628-FF8EDAD367CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A48D0839-1F2D-45E1-8C1B-016F23B98471}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A48D0839-1F2D-45E1-8C1B-016F23B98471}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A48D0839-1F2D-45E1-8C1B-016F23B98471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE832866-358D-4B91-B628-FF8EDAD367CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE832866-358D-4B91-B628-FF8EDAD367CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE832866-358D-4B91-B628-FF8EDAD367CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE832866-358D-4B91-B628-FF8EDAD367CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
